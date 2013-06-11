@@ -1,0 +1,13 @@
+name = Bracket Tabs
+description = The Bracket Tabs module creates link tabs for groups of tournament brackets
+core = 7.x
+dependencies[] = bracket
+configure = admin/config/bracket-tabs
+
+
+; Information added by drupal.org packaging script on 2013-02-18
+version = "7.x-1.1"
+core = "7.x"
+project = "bracket"
+datestamp = "1361227332"
+

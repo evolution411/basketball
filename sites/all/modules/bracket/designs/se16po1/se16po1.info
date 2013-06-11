@@ -1,0 +1,10 @@
+name = se16po1
+description = Single Elimination 16 Competitor Single Round Playoff Bracket
+
+
+; Information added by drupal.org packaging script on 2013-02-18
+version = "7.x-1.1"
+core = "7.x"
+project = "bracket"
+datestamp = "1361227332"
+
