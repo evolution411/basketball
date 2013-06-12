@@ -42,6 +42,7 @@ li a.active {
 background-color:#f1f1e4;
   /* overflow: hidden; */ /* Sometimes you want to prevent overlapping with main div. */
 }
+}
 
 #navigation .block {
   margin-bottom: 0;
@@ -98,6 +99,7 @@ height:3em;
 }
 
 #secondary-menu {
+margin-top:11em;
   float: right; /* LTR */
 }
 
